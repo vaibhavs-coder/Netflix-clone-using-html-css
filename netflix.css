@@ -1,0 +1,270 @@
+body{
+    background-image:url("back.jpeg");
+}
+#head img{
+    height:150px;
+    
+}
+#head{
+    display:flex;
+    top:0;
+
+}
+#side{
+    margin-left:1000px;
+    margin-top:55px;
+    padding-left:40px;
+    display:flex;
+}
+#sel{
+    height:30px;
+    width:100px;
+
+}
+#btn{
+    background-color: red;
+    color:white;
+    margin-left:10px;
+    border-color:red;
+    height:30px;
+    width:100px;
+    cursor:pointer;
+}
+#p1 h1{
+    color:white;
+    font-size:60px;
+}
+#p1 h3{
+    color:white;
+    font-size:35px;
+    margin-left:10px;
+}
+#p1{
+    padding-left:500px;
+}
+#para{
+    color:white;
+    font-size:25px;
+    margin-left:400px;
+    padding-top:10px;
+}
+#nn{
+    margin-left:370px;
+    display:flex;
+}
+#in{
+    height:67px;
+    width:570px;
+}
+#nw{
+    height:73px;
+    width:200px;
+    background-color:red;
+    color:white;
+    font-size:20px;
+    margin-left:0px;
+    cursor:pointer;
+    padding-top:4px;
+    border-color:red;
+
+}
+#tv1{
+    display:flex;
+    background-color:black;
+    border-style:solid;
+    border-width:8px;
+    border-top-color:gray;
+    width:1600px;
+    height:450px;
+    margin-top:250px;
+    margin-left:0px;
+    position:relative;
+    right:70px;
+}
+#tv1 div{
+    padding-left:60px;
+}
+#matter h1{
+    color:white;
+    font-size:60px;
+    font-weight:bold;
+    margin-left:250px;
+}
+#matter p{
+    color:white;
+    margin-left:250px;
+    font-size:30px;
+}
+#img{
+    height:70px;
+    width:200px;
+}
+#tv2{
+    display:flex;
+    background-color:black;
+    height:400px;
+    width:1700px;
+    border-style:solid;
+    border-top-color:gray;
+    border-width:10px;
+    position:relative;
+    right:10px;
+}
+#cont{
+    color:white;
+    margin-left:200px;
+    margin-top:100px;
+}
+#imag img{
+    height:400px;
+    width:400px;
+    margin-left:100px;
+}
+#cont h1{
+    font-size:40px;
+}
+#cont p{
+    font-size:20px;
+}
+#watch{
+    display:flex;
+    background-color:black;
+    height:400px;
+    width:1700px;
+    border-style:solid;
+    border-top-color:gray;
+    border-width:10px;
+    position:relative;
+    right:10px;
+}
+#imagee img{
+    height:380px;
+    width:400px;
+    padding-left:250px;
+
+}
+#con{
+    padding-left:30px;
+}
+#con h1{
+color:white;
+font-size:60px;
+margin-left:40px;
+}
+#con p{
+    color:white;
+    font-size:30px;
+    margin-left:40px;
+}
+#child{
+    display:flex;
+    background-color:black;
+    height:500px;
+    width:1700px;
+    border-style:solid;
+    border-top-color:gray;
+    border-width:10px;
+    position:relative;
+    right:10px;
+}
+#img img{
+    height:400px;
+    width:500px;
+}
+#content{
+    padding-left:300px;
+    color:white;
+    margin-top:100px;
+}
+#content h1{
+    font-size:40px;
+margin-left:400px;
+}
+#content p{
+    margin-left:400px;
+    font-size:20px;
+}
+#faq{
+    background-color:black;
+    height:1200px;
+    width:1700px;
+    border-style:solid;
+    border-top-color:gray;
+    border-width:10px;
+    position:relative;
+    right:10px;
+}
+#chota{
+    background-color:gray;
+    height:100px;
+    width:1000px;
+    margin-left:250px;
+    padding-left:130px;
+  font-size:20px;
+  color:white;
+  
+}
+#faq h1{
+    color:white;
+    font-size:50px;
+    margin-left:450px;
+    color:white;
+}
+#search{
+    display:flex;
+    margin-left:290px;
+}
+#search input{
+    height:70px;
+    width:700px;
+}
+#rtw{
+    color:white;
+    margin-left:370px;
+    margin-top:40px;
+    font-size:30px;
+}
+#but{
+    background-color:red;
+    color:white;
+    width:300px;
+    height:77px;
+}
+#last{
+    background-color:black;
+    height:230px;
+    width:1700px;
+    border-style:solid;
+    border-top-color:gray;
+    border-width:10px;
+    position:relative;
+    right:10px;
+}
+#lk{
+    display:flex;
+    color:gray;
+    margin-left:70px;
+}
+#last h4{
+    color:gray;
+}
+#lk div li{
+color:gray;
+list-style:none;
+}
+#last h5{
+    color:gray;
+}
+#lk div{
+    padding-left:190px;
+    font-size:15px;
+}
+#select{
+    color:white;
+    background-color:black;;
+    border-style:solid;
+    border-color:white;
+    height:40px;
+    width:80px;
+
+}
